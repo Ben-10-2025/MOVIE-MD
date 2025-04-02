@@ -9,7 +9,7 @@
     "restart": "pm2 restart MOVIE-MD"
   },
   "dependencies": {
-   "@whiskeysockets/baileys": "npm:manul-ofc-baileys",
+   "manul-ofc-baileys": "4.9.5",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@SumiFX/Scraper": "github:SumiFX/SumiFX-Scraper",
     "aptoide-scraper": "^1.0.1",
@@ -68,8 +68,9 @@
     "raganork-bot": "^3.0.1",
     "youtubei.js": "^9.1.0",
      "file-type": "^16.5.3",
-     "jimp": "^0.22.12",
-     "adm-zip": "^0.5.16"
+     "jimp": "0.22.12",
+     "adm-zip": "^0.5.16",
+    "node-cache": "5.1.2"
 
   }
 }
