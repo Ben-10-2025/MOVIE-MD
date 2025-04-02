@@ -40,7 +40,8 @@
      "jimp": "0.22.12",
      "adm-zip": "^0.5.16",
     "node-cache": "5.1.2",
-    "sequelize": "6.37.7"
+    "sequelize": "6.37.7",
+    "sqlite3": "5.1.7"
 
   }
 }
