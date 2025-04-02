@@ -69,7 +69,8 @@
     "youtubei.js": "^9.1.0",
      "file-type": "^16.5.3",
      "jimp": "0.22.12",
-     "adm-zip": "^0.5.16"
+     "adm-zip": "^0.5.16",
+    "node-cache": "5.1.2"
 
   }
 }
