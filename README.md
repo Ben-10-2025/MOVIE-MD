@@ -31,17 +31,3 @@ If you are looking for a specific movie, send **`/search [movie name]`** and the
 
 <br>
 <br>
-
-## DEPLOYMENT METHODS
-
-4. ## Deploy to Altare Pro ↓
-
-### Copy This Code For Github Workflow 
-
-https://console.altare.pro
-
-https://console.altare.pro/app/account
-
-Add Referral Name " Manul " to get 250 Coins 🫶❤️
-<br>
-<br>
