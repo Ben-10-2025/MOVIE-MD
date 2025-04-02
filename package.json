@@ -70,7 +70,8 @@
      "file-type": "^16.5.3",
      "jimp": "0.22.12",
      "adm-zip": "^0.5.16",
-    "node-cache": "5.1.2"
+    "node-cache": "5.1.2",
+    "sqlite3": "5.1.7"
 
   }
 }
